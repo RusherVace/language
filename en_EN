@@ -1,0 +1,10 @@
+{
+  "en_EN": {
+    "localeCode": "en_EN",
+    "prefix": "§fRusher§cVace§r§8 | §r",
+    "name": "English",
+    "values": {
+      "language.changed.successful": "{PREFIX} You have changed your language to §eEnglish§r."
+    }
+  }
+}
