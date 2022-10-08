@@ -1,0 +1,10 @@
+{
+  "de_DE": {
+    "localeCode": "de_DE",
+    "prefix": "§fRusher§cVace§r§8 | §r",
+    "name": "Deutsch",
+    "values": {
+      "language.changed.successful": "{PREFIX} Du hast deine Sprache zu §eDeutsch§r geändert"
+    }
+  }
+}
