@@ -5,8 +5,8 @@
     "name": "English",
     "values": {
       "language.changed.successful": "{PREFIX} You have changed your language to §eEnglish§r.",
-      "JoinME.ui.createJoinME": "%prefix%§aErstelle ein JoinME",
-      "JoinME.ui.listJoinMEs": "%prefix%§eListe der JoinMEs",
+      "JoinME.ui.createJoinME": "§aErstelle ein JoinME",
+      "JoinME.ui.listJoinMEs": "§eListe der JoinMEs",
       "JoinME.is.not.Allowed": "%prefix%§cDu kannst hier kein JoinME erstellen",
       "JoinME.exist": "%prefix%§cDu hast bereits ein JoinME erstellt"
     }
