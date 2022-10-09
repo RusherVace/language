@@ -4,7 +4,8 @@
     "prefix": "§fRusher§cVace§r§8 | §r",
     "name": "Deutsch",
     "values": {
-      "language.changed.successful": "{PREFIX} Du hast deine Sprache zu §eDeutsch§r geändert"
+      "language.changed.successful": "{PREFIX} Du hast deine Sprache zu §eDeutsch§r geändert",
+      "JoinME.ui.createJoinME": "§aErstelle ein JoinME"
     }
   }
 }
