@@ -8,7 +8,12 @@
       "JoinME.ui.createJoinME": "§aErstelle ein JoinME",
       "JoinME.ui.listJoinMEs": "§eListe der JoinMEs",
       "JoinME.is.not.Allowed": "%prefix%§cDu kannst hier kein JoinME erstellen",
-      "JoinME.exist": "%prefix%§cDu hast bereits ein JoinME erstellt"
+      "JoinME.exist": "%prefix%§cDu hast bereits ein JoinME erstellt",
+      "friends.friendlist.ui": "§aFreunde§8-§7Liste",
+      "friends.addfriend.ui": "§7Freund §ahinzufügen",
+      "friends.requests.ui": "Anfragen",
+      "friends.norequests": "§cKeine§7 Anfragen",
+      "friends.nofriend.ui": "§cKeine §7Freunde"
     }
   }
 }
