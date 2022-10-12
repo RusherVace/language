@@ -9,7 +9,7 @@
       "JoinME.ui.listJoinMEs": "§eListe der JoinMEs",
       "JoinME.is.not.Allowed": "%prefix%§cDu kannst hier kein JoinME erstellen",
       "JoinME.exist": "%prefix%§cDu hast bereits ein JoinME erstellt",
-      "friends.friendlist.ui": "§aFriend§8-§7list",
+      "friends.friendlist.ui": "§aFriend§8 §7list",
       "friends.addfriend.ui": "§aAdd§7 Friend",
       "friends.requests.ui": "Requests",
       "friends.norequests": "§cNo§7 Requests",
