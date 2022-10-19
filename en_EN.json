@@ -13,7 +13,26 @@
       "friends.addfriend.ui": "§aAdd§7 Friend",
       "friends.requests.ui": "Requests",
       "friends.norequests": "§cNo§7 Requests",
-      "friends.nofriend.ui": "§cNo §7Friends"
+      "friends.nofriend.ui": "§cNo §7Friends",
+      "lobby.particles": "§aParticles",
+      "lobby.no.particles": "§4Stop particles",
+      "lobby.size": "§eSize",
+      "lobby.boots": "§cBoots",
+      "lobby.message.item.cosmetics.clicked.scale.small": "§aYou selected the size: §2Small§a",
+      "lobby.message.item.cosmetics.clicked.scale.normal": "§aYou selected the size: §2Normal§a",
+      "lobby.message.item.cosmetics.clicked.scale.big": "§aYou selected the size: §2Big§a",
+      "lobby.message.item.cosmetics.clicked.boots.speed": "§aYou selected the boots: §2Speed§a",
+      "lobby.message.item.cosmetics.clicked.boots.strength": "§aYou selected the boots: §2JumpBoots§a",
+      "lobby.message.item.cosmetics.clicked.boots.walk.diamond": "§aYou selected the boots: §2Diamand-Blocks§a",
+      "lobby.message.item.cosmetics.clicked.boots.walk.gold": "§aYou selected the boots: §2Gold-Blocks§a",
+      "lobby.message.item.cosmetics.clicked.boots.walk.iron": "§aYou selected the boots: §2Iron-Blocks§a",
+      "lobby.message.item.cosmetics.clicked.boots.walk.random": "§aYou selected the boots: §2Random-Blocks§a",
+      "hider.hide.all.ui": "§7Hide §cno §7player",
+      "hider.hide.all.vip": "§7Show only §5VIP §7player",
+      "hider.hide.all.all": "§7Hide §call §7player",
+      "lobby.message.item.hider.clicked.nobody": "§7There will §cno§7 player be §chidden",
+      "lobby.message.item.hider.clicked.vip": "§7There will only §5VIP§7 player be §ashown",
+      "lobby.message.item.hider.clicked.all": "§7There will §cno§7 player be §cshown"
     }
   }
 }
