@@ -30,7 +30,10 @@
       "lobby.message.item.cosmetics.clicked.boots.walk.random": "§aDu hast die Schuhe: §2Random-Blöcke§a ausgewählt",
       "hider.hide.all.ui": "§7Verstecke §ckeine §7Spieler",
       "hider.hide.all.vip": "§7Zeige nur §5VIP §7Spieler",
-      "hider.hide.all.all": "§7Verstecke §calle §7Spieler"
+      "hider.hide.all.all": "§7Verstecke §calle §7Spieler",
+      "lobby.message.item.hider.clicked.nobody": "§7Es werden nun §ckeine§7 Spieler §cversteckt",
+      "lobby.message.item.hider.clicked.vip": "§7Es werden nun §5VIP§7 Spieler §agezeigt",
+      "lobby.message.item.hider.clicked.all": "§7Es werden nun §ckeine§7 Spieler §cangezeigt"
     }
   }
 }
