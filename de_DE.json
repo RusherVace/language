@@ -13,7 +13,14 @@
       "friends.addfriend.ui": "§7Freund §ahinzufügen",
       "friends.requests.ui": "Anfragen",
       "friends.norequests": "§cKeine§7 Anfragen",
-      "friends.nofriend.ui": "§cKeine §7Freunde"
+      "friends.nofriend.ui": "§cKeine §7Freunde",
+      "lobby.particles": "§aPartikel",
+      "lobby.no.particles": "§4Partikel deaktivieren",
+      "lobby.size": "§eGröße",
+      "lobby.boots": "§cSchuhe",
+      "lobby.message.item.cosmetics.clicked.scale.small": "§aDu hast die Größe: §2Klein§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.scale.normal": "§aDu hast die Größe: §2Mittel§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.scale.big": "§aDu hast die Größe: §2Groß§a ausgewählt",
     }
   }
 }
