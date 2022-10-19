@@ -21,6 +21,13 @@
       "lobby.message.item.cosmetics.clicked.scale.small": "§aDu hast die Größe: §2Klein§a ausgewählt",
       "lobby.message.item.cosmetics.clicked.scale.normal": "§aDu hast die Größe: §2Mittel§a ausgewählt",
       "lobby.message.item.cosmetics.clicked.scale.big": "§aDu hast die Größe: §2Groß§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.speed": "§aDu hast die Schuhe: §2Geschwindigkeit§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.strength": "§aDu hast die Schuhe: §2Sprungboost§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.speed": "§aDu hast die Schuhe: §2Geschwindigkeit§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.walk.diamond": "§aDu hast die Schuhe: §2Diamant-Blöcke§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.walk.gold": "§aDu hast die Schuhe: §2Gold-Blöcke§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.walk.iron": "§aDu hast die Schuhe: §2Eisen-Blöcke§a ausgewählt",
+      "lobby.message.item.cosmetics.clicked.boots.walk.random": "§aDu hast die Schuhe: §2Random-Blöcke§a ausgewählt",
     }
   }
 }
