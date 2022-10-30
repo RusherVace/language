@@ -34,7 +34,8 @@
       "lobby.message.item.hider.clicked.nobody": "§7Es werden nun §ckeine§7 Spieler §cversteckt",
       "lobby.message.item.hider.clicked.vip": "§7Es werden nun §5VIP§7 Spieler §agezeigt",
       "lobby.message.item.hider.clicked.all": "§7Es werden nun §ckeine§7 Spieler §cangezeigt",
-      "broadcasts.1": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7Unser §9Discord§7: §bdiscord.rushervace.net§r\n§l§8 » §r§8\n§l§8 » §r§8-------"
+      "broadcasts.1": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7Unser §9Discord§7: §bdiscord.rushervace.net§r\n§l§8 » §r§8\n§l§8 » §r§8-------",
+      "hours": "Stunde(n)"
     }
   }
 }
