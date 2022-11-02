@@ -53,7 +53,9 @@
       "broadcasts.18": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7If you get §cbanned§7, you can get §cunbanned§7!\n§l§8 » §r§8§eunban.rushervace.net§r\n§l§8 » §r§8\n§l§8 » §r§8-------",
       "broadcasts.19": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7Our §4Rules§7: §crules.rushervace.net§r\n§l§8 » §r§8\n§l§8 » §r§8-------",
       "broadcasts.20": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7§4Rule breaker found§7?§r\n§l§8 » §r§8§7§cReport §7it with §c/report\n§l§8 » §r§8\n§l§8 » §r§8-------",
-      "hours": "Hour(s)"
+      "hours": "Hour(s)",
+      "bridger.goal": "{prefix}§7You reached the goal with §e{time} seconds§7.",
+      "bridger.settings.setdiff": "{prefix}§7You set the §ehigh difference§7 to §e{value}§7."
     }
   }
 }
