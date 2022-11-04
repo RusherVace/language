@@ -55,7 +55,10 @@
       "broadcasts.20": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7§4Rule breaker found§7?§r\n§l§8 » §r§8§7§cReport §7it with §c/report\n§l§8 » §r§8\n§l§8 » §r§8-------",
       "hours": "Hour(s)",
       "bridger.goal": "{prefix}§7You reached the goal with §e{time} seconds§7.",
-      "bridger.settings.setdiff": "{prefix}§7You set the §ehigh difference§7 to §e{value}§7."
+      "bridger.settings.setdiff": "{prefix}§7You set the §ehigh difference§7 to §e{value}§7.",
+      "lobby.watching.stats": "§e{damager}§7 is looking at your stats.",
+      "lobby.infos.about": "§l§6INFO ABOUT {player}",
+      "player.privacy.not.public": "§cSorry, the player don't want that others can see his stats."
     }
   }
 }
