@@ -56,7 +56,10 @@
       "broadcasts.20": "§l§8 » §r§8-------\n§l§8 » §r§8\n§l§8 » §r§7§4Regelbrecher gefunden§7?§r\n§l§8 » §r§8§7§cMelde §7ihn mit §c/report\n§l§8 » §r§8\n§l§8 » §r§8-------",
       "hours": "Stunde(n)",
       "bridger.goal": "{prefix}§7Du hast das Ziel in §e{time} Sekunden§7 erreicht.",
-      "bridger.settings.setdiff": "{prefix}§7Du hast den §eHöhenunterschied§7 auf §e{value}§7 gesetzt."
+      "bridger.settings.setdiff": "{prefix}§7Du hast den §eHöhenunterschied§7 auf §e{value}§7 gesetzt.",
+      "lobby.watching.stats": "§e{damager}§7 schaut sich deine Statistiken an.",
+      "lobby.infos.about": "§l§6INFOS ÜBER {player}",
+      "player.privacy.not.public": "§cSorry, aber dieser Spieler will nicht, dass man seine Stats sieht."
     }
   }
 }
