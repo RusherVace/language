@@ -61,7 +61,8 @@
       "player.privacy.not.public": "§cSorry, the player don't want that others can see his stats.",
       "onlinetime": "OnlineTime",
       "rank": "Rank",
-      "transfering.already": "§r§l§8 » §r§cYou are already transfering to another server!"
+      "transfering.already": "§r§l§8 » §r§cYou are already transfering to another server!",
+      "no.servers": "%prefix%§7No servers available."
     }
   }
 }
