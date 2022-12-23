@@ -61,7 +61,8 @@
       "lobby.infos.about": "§l§6INFOS ÜBER {player}",
       "player.privacy.not.public": "§cSorry, aber dieser Spieler will nicht, dass man seine Stats sieht.",
       "onlinetime": "Spielzeit",
-      "rank": "Rang"
+      "rank": "Rang",
+      "transfering.already": "§r§l§8 » §r§cDu wird bereits auf einen anderen Server gesendet!"
     }
   }
 }
