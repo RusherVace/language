@@ -59,7 +59,9 @@
       "bridger.settings.setdiff": "{prefix}§7Du hast den §eHöhenunterschied§7 auf §e{value}§7 gesetzt.",
       "lobby.watching.stats": "§e{damager}§7 schaut sich deine Statistiken an.",
       "lobby.infos.about": "§l§6INFOS ÜBER {player}",
-      "player.privacy.not.public": "§cSorry, aber dieser Spieler will nicht, dass man seine Stats sieht."
+      "player.privacy.not.public": "§cSorry, aber dieser Spieler will nicht, dass man seine Stats sieht.",
+      "onlinetime": "Spielzeit",
+      "rank": "Rang"
     }
   }
 }
