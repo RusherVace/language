@@ -62,7 +62,8 @@
       "onlinetime": "OnlineTime",
       "rank": "Rank",
       "transfering.already": "§r§l§8 » §r§cYou are already transfering to another server!",
-      "no.servers": "%prefix%§7No servers available."
+      "no.servers": "%prefix%§7No servers available.",
+      "claim.daily.reward.now": "%prefix%Don't forget! Your reward is waiting. §8(§eStreak: %streak%§8)"
     }
   }
 }
