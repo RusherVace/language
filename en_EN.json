@@ -63,7 +63,8 @@
       "rank": "Rank",
       "transfering.already": "§r§l§8 » §r§cYou are already transfering to another server!",
       "no.servers": "%prefix%§7No servers available.",
-      "claim.daily.reward.now": "%prefix%Don't forget! Your reward is waiting. §8(§eStreak: %streak%§8)"
+      "claim.daily.reward.now": "%prefix%Don't forget! Your reward is waiting. §8(§eStreak: %streak%§8)",
+      "terms.content.ui": "Hey {player}!\n\nRusherVace.NET is aware of the importance of protecting your personal data and therefore complies with all data protection regulations. In this privacy policy, we inform you about the type of data we collect when using our Minecraft server and how we use this data.\n\nWhen you log in and play on our Minecraft server, we collect certain data from you, including:\n\n\nYour gamertag: This is the name you use in the game.\nYour UUID/XUID: This is a unique identification number assigned by Minecraft and used to identify your account on our server.\nYour IP address: This is the address assigned to your computer when you connect to the internet.\nWe use this data to improve your gaming experience on our server and to operate our server securely and reliably. We store this data on secure servers and do not disclose it to third parties unless we are legally required to do so. We reserve the right to change this privacy policy at any time. Please visit this page regularly to stay informed about current privacy policies. If you have any questions about this privacy policy or if you want to view or change your data, please contact us at [info@uth.rushervace.net]."
     }
   }
 }
