@@ -69,7 +69,19 @@
          "mlgrush.left.game": "%prefix%§c%player% §7hat die Runde verlassen.",
          "mlgrush.notInGame": "%prefix%§cDu bist in keiner Runde.",
          "mlgrush.notInGame": "%prefix%§cDu spielst gerade nicht.",
-         "mlgrush.onlyInGame": "%prefix%§cDu kannst das nur im Spiel."
+         "mlgrush.onlyInGame": "%prefix%§cDu kannst das nur im Spiel.",
+         "mlgrush.alreadyInGame": "%prefix%§cDu bist gerade in einer Runde.",
+         "mlgrush.noGames": "%prefix%§cHier sind leider keine Runden.",
+         "mlgrush.spectate": "%prefix%§7Du beobachtest nun §e%arena%§7.",
+         "mlgrush.spectate.join": "%prefix%§e%player% §7beobachtest euch nun.",
+         "mlgrush.spectate.menu": "§aWähle das Spiel aus, welchem du zuschauen möchtest.",
+         "mlgrush.left.spectator": "%prefix%Du hast den Zuschauermodus verlassen.",
+         "mlgrush.notInSpectator": "%prefix%Du bist nicht im Zuschauermodus",
+         "settings.game-settings": "%prefix%Du hast die Betten auf %beds% und die Zeit auf %time% gesetzt.",
+         "error.no-sandstone": "%prefix%§cEs gab einen Fehler beim Speichern des Inventars. Hast du deinen Block falsch gesetzt?",
+         "error.no-stick": "%prefix%§cEs gab einen Fehler beim Speichern des Inventars. Hast du deinen Stick falsch gesetzt?",
+         "error.no-pickaxe": "%prefix%§cEs gab einen Fehler beim Speichern des Inventars. Hast du deine Spitzhacke falsch gesetzt?",
+         "success.items-saved": "%prefix%§aDein Inventar wurde gespeichert!"
       }
    }
 }
