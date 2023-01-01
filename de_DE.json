@@ -87,7 +87,16 @@
          "challenge.challenged": "%prefix%Du hast §e%player%§7 herausgefordert.",
          "queue.already-creating": "%prefix%§cEs wird bereits eine Runde erstellt.",
          "queue.joined": "%prefix%§aDu bist der Warteschlange beigetreten.",
-         "queue.left": "%prefix%§cDu hast die Warteschlange verlassen."
+         "queue.left": "%prefix%§cDu hast die Warteschlange verlassen.",
+         "mlgrush.gameCreated": "%prefix%Eine Runde wird erstellt.",
+         "mlgrush.error.witharena": "%prefix%§cRunde konnte wegen eines Fehlers nicht erstellt werden. Versuche es noch mal.",
+         "arena.bed.own": "%prefix%§cDu kannst dein eigenes Bett nicht abbauen.",
+         "arena.bed.break": "%prefix%Du hast das Bett des Gegners abgebaut. §8(§eGesamte Betten: %beds%§8)",
+         "arena.bed.break.other": "%prefix%§cDein Bett wurde von §e%player%§c zerstört.",
+         "arena.win": "%prefix%§aDu hast gewonnen! §8(§e%team%§8)",
+         "arena.elo.win": "%prefix%§aDu hast §2%elo% Elo§a erhalten.",
+         "arena.lose": "%prefix%Du hast verloren. Das Gewinner-Team ist §e%team%.",
+         "arena.elo.lose": "%prefix%§cDu hast §4%elo% Elo§c verloren."
       }
    }
 }
