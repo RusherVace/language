@@ -107,7 +107,10 @@
       "daily_reward_streak_reset": "%prefix%You have collected your reward, but missed a day. Your streak is: §e%streak%",
       "daily_reward_claimed": "%prefix%You have collected your reward. Your streak: §e%streak%",
       "daily_reward_already_claimed": "%prefix%You have already collected your reward.",
-      "market": "§r§l§eMarketplace"
+      "market": "§r§l§eMarketplace",
+      "rankshop.already": "%prefix%You already have a rank with these privileges.",
+      "rankshop.buy": "%prefix%You have purchased the VIP rank.",
+      "rankshop.success": "%prefix%You have received the VIP rank."
     }
   }
 }
