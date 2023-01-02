@@ -94,7 +94,7 @@
          "arena.bed.break": "%prefix%Du hast das Bett des Gegners abgebaut. §8(§eGesamte Betten: %beds%§8)",
          "arena.bed.break.other": "%prefix%§cDein Bett wurde von §e%player%§c zerstört.",
          "arena.win": "%prefix%§aDu hast gewonnen! §8(§e%team%§8)",
-         "arena.win.nobody": "%prefix%Es hat niemand gewonnen."
+         "arena.win.nobody": "%prefix%Es hat niemand gewonnen.",
          "arena.elo.win": "%prefix%§aDu hast §2%elo% Elo§a erhalten.",
          "arena.lose": "%prefix%Du hast verloren. Das Gewinner-Team ist §e%team%.",
          "arena.elo.lose": "%prefix%§cDu hast §4%elo% Elo§c verloren.",
