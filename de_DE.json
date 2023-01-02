@@ -110,7 +110,8 @@
 			"market": "§r§l§eMarktplatz",
 			"rankshop.already": "%prefix%Du hast bereits einen Rang, mit diesen Rechten.",
 			"rankshop.buy": "%prefix%Du hast den Rang §5VIP§7 gekauft.",
-			"rankshop.success": "%prefix%Du hast den Rang §5VIP§7 erhalten."
+			"rankshop.success": "%prefix%Du hast den Rang §5VIP§7 erhalten.",
+			"rankshop.notenough": "%prefix%Du hast nicht genug Coins."
 		}
 	}
 }
