@@ -101,8 +101,9 @@
       "blockshop.set": "%prefix%You have selected the §e%block% §7.",
       "blockshop.bought": "%prefix%You have purchased the §e%block% block§7.",
       "blockshop.notenough": "%prefix%You do not have enough coins to buy this block.",
-     "stickshop.stick": "%prefix%You have selected the stick §e%stick%§7.",
-     "stickshop.bought": "%prefix%You have purchased the stick §e%stick%§7."
+      "stickshop.stick": "%prefix%You have selected the stick §e%stick%§7.",
+      "stickshop.bought": "%prefix%You have purchased the stick §e%stick%§7.",
+      "ping": "%prefix%§7Your ping is §e%ping%ms§7!"
     }
   }
 }
