@@ -99,7 +99,12 @@
          "arena.lose": "%prefix%Du hast verloren. Das Gewinner-Team ist §e%team%.",
          "arena.elo.lose": "%prefix%§cDu hast §4%elo% Elo§c verloren.",
          "simple.you": "Du",
-         "simple.time-left": "Übrige Zeit"
+         "simple.time-left": "Übrige Zeit",
+         "blockshop.set": "%prefix%Du hast den §e%block% §7ausgewählt.",
+         "blockshop.bought": "%prefix%Du hast den §e%block% Block§7 gekauft.",
+         "blockshop.notenough": "%prefix%Du hast nicht genug Coins, um diesen Block zu kaufen.",
+         "stickshop.stick": "%prefix%Du hast den Stick §e%stick%§7 ausgewählt.",
+         "stickshop.bought": "%prefix%Du hast den Stick §e%stick%§7 gekauft."
       }
    }
 }
