@@ -111,7 +111,8 @@
       "rankshop.already": "%prefix%You already have a rank with these privileges.",
       "rankshop.buy": "%prefix%You have purchased the VIP rank.",
       "rankshop.success": "%prefix%You have received the VIP rank.",
-      "rankshop.notenough": "%prefix%You do not have enough coins."
+      "rankshop.notenough": "%prefix%You do not have enough coins.",
+      "surveys.content": "%prefix%There is currently no survey. Check back in a few days."
     }
   }
 }
