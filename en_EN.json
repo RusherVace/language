@@ -107,7 +107,7 @@
       "daily_reward_streak_reset": "%prefix%You have collected your reward, but missed a day. Your streak is: §e%streak%",
       "daily_reward_claimed": "%prefix%You have collected your reward. Your streak: §e%streak%",
       "daily_reward_already_claimed": "%prefix%You have already collected your reward.",
-      "market": "§r§eMarketplace"
+      "market": "§r§l§eMarketplace"
     }
   }
 }
