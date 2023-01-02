@@ -107,7 +107,10 @@
 			"daily_reward_streak_reset": "%prefix%Du hast deine Belohnung abgeholt, aber einen Tag verpasst. Dein Streak ist: §e%streak%",
 			"daily_reward_claimed": "%prefix%Du hast deine Belohnung abgeholt. Dein Streak: §e%streak%",
 			"daily_reward_already_claimed": "%prefix%Du hast deine Belohnung bereits abgeholt.",
-			"market": "§r§l§eMarktplatz"
+			"market": "§r§l§eMarktplatz",
+			"rankshop.already": "%prefix%Du hast bereits einen Rang, mit diesen Rechten.",
+			"rankshop.buy": "%prefix%Du hast den Rang §5VIP§7 gekauft.",
+			"rankshop.success": "%prefix%Du hast den Rang §5VIP§7 erhalten."
 		}
 	}
 }
