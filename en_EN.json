@@ -83,6 +83,7 @@
       "challenge.already-challenged": "%prefix%You have already challenged §c%player%§7.",
       "challenge.accepted": "%prefix%The game with §e%player%§7 has been accepted.",
       "challenge.challenged": "%prefix%You have challenged §e%player%§7.",
+      "challenge.got.challenge": "%prefix%You got challenged by §e%player%§7.",
       "queue.already-creating": "%prefix%§cA game is already being created.",
       "queue.joined": "%prefix%§aYou have joined the queue.",
       "queue.left": "%prefix%§cYou have left the queue.",
