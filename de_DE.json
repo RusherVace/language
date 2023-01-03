@@ -112,7 +112,8 @@
 			"rankshop.buy": "%prefix%Du hast den Rang §5VIP§7 gekauft.",
 			"rankshop.success": "%prefix%Du hast den Rang §5VIP§7 erhalten.",
 			"rankshop.notenough": "%prefix%Du hast nicht genug Coins.",
-			"surveys.content": "%prefix%Derzeit gibt es keine Umfrage. Schau mal die nächsten Tage vorbei."
+			"surveys.content": "%prefix%Derzeit gibt es keine Umfrage. Schau mal die nächsten Tage vorbei.",
+			"privateserver.tester": "%prefix%Derzeit kann dieses Feature nur von ausgewählten Testern benutzt werden."
 		}
 	}
 }
