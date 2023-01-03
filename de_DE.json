@@ -90,7 +90,7 @@
 			"mlgrush.gameCreated": "%prefix%Eine Runde wird erstellt.",
 			"mlgrush.error.witharena": "%prefix%§cRunde konnte wegen eines Fehlers nicht erstellt werden. Versuche es noch mal.",
 			"arena.bed.own": "%prefix%§cDu kannst dein eigenes Bett nicht abbauen.",
-			"arena.bed.break": "%prefix%Du hast das Bett des Gegners abgebaut. §8(§eGesamte Betten: %beds%§8)",
+			"arena.bed.break": "%prefix%Du hast das Bett des Gegners abgebaut.",
 			"arena.bed.break.other": "%prefix%§cDein Bett wurde von §e%player%§c zerstört.",
 			"arena.win": "%prefix%§aDu hast gewonnen! §8(§e%team%§8)",
 			"arena.win.nobody": "%prefix%Es hat niemand gewonnen.",
