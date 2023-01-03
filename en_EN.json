@@ -113,7 +113,7 @@
       "rankshop.success": "%prefix%You have received the VIP rank.",
       "rankshop.notenough": "%prefix%You do not have enough coins.",
       "surveys.content": "%prefix%There is currently no survey. Check back in a few days.",
-			"privateserver.tester": "%prefix%Derzeit kann dieses Feature nur von ausgewählten Testern benutzt werden."
+      "privateserver.tester": "%prefix%Currently this feature can only be used by selected testers."
     }
   }
 }
