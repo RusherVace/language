@@ -83,6 +83,7 @@
 			"challenge.already-challenged": "%prefix%Du hast bereits §c%player%§7 herausgefordert.",
 			"challenge.accepted": "%prefix%Die Runde mit §e%player%§7 wurde angenommen.",
 			"challenge.challenged": "%prefix%Du hast §e%player%§7 herausgefordert.",
+			"challenge.got.challenge": "%prefix%Du wurdest von §e%player%§7 herausgefordert."
 			"queue.already-creating": "%prefix%§cEs wird bereits eine Runde erstellt.",
 			"queue.joined": "%prefix%§aDu bist der Warteschlange beigetreten.",
 			"queue.left": "%prefix%§cDu hast die Warteschlange verlassen.",
