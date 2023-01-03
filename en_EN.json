@@ -90,7 +90,7 @@
       "mlgrush.gameCreated": "%prefix%A game is being created.",
       "mlgrush.error.witharena": "%prefix%§cGame could not be created due to an error. Please try again.",
       "arena.bed.own": "%prefix%§cYou cannot break your own bed.",
-      "arena.bed.break": "%prefix%You have broken the enemy's bed. §8(§eTotal beds: %beds%§8)",
+      "arena.bed.break": "%prefix%You have broken the enemy's bed.",
       "arena.bed.break.other": "%prefix%§cYour bed has been destroyed by §e%player%§c.",
       "arena.win": "%prefix%§aYou have won! §8(§e%team%§8)",
       "arena.win.nobody": "%prefix%Nobody won.",
