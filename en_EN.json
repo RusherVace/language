@@ -14,6 +14,8 @@
       "friends.requests.ui": "Requests",
       "friends.norequests": "§cNo§7 Requests",
       "friends.nofriend.ui": "§cNo §7Friends",
+      "friends.removefriend.ui": "Remove friend",
+			"friends.message.ui": "Write message",
       "lobby.particles": "§aParticles",
       "lobby.no.particles": "§4Stop particles",
       "lobby.size": "§eSize",
