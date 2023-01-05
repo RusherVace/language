@@ -16,6 +16,7 @@
 			"friends.nofriend.ui": "§cKeine §7Freunde",
 			"friends.removefriend.ui": "Freund entfernen",
 			"friends.message.ui": "Nachricht schreiben",
+			"friends.removefriend.success": "%prefix%Du hast deinen Freund §e%friend%§7 entfernt.",
 			"lobby.particles": "§aPartikel",
 			"lobby.no.particles": "§4Partikel deaktivieren",
 			"lobby.size": "§eGröße",
