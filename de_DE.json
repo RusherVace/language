@@ -14,6 +14,8 @@
 			"friends.requests.ui": "Anfragen",
 			"friends.norequests": "§cKeine§7 Anfragen",
 			"friends.nofriend.ui": "§cKeine §7Freunde",
+			"friends.removefriend.ui": "Freund entfernen",
+			"friends.message.ui": "Nachricht schreiben",
 			"lobby.particles": "§aPartikel",
 			"lobby.no.particles": "§4Partikel deaktivieren",
 			"lobby.size": "§eGröße",
