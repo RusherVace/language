@@ -130,7 +130,7 @@
 			"moneyminer.booster.found": "{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §aminuten gefunden!",
 			"moneyminer.booster.found.sec": "{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §asekunden gefunden!",
 			"moneyminer.booster.money.minutes": "{prefix}§e{player} §ahat §b{percent}% §avon §6{duration} §aminuten §avon §eMoney §aBooster gewonnen!",
-			"moneyminer.booster.found.title": "§l§bDu hast einen Booster gefunden",
+			"moneyminer.booster.found.title": "§eDu hast einen Booster gefunden",
 			"moneyminer.buyed_pickaxe": "{prefix}§aerfolgreich gekauft.",
 			"moneyminer.not_enough_money": "{prefix}§cDu hast nicht genug Geld.",
 			"moneyminer.claimed": "{prefix}§aDu hast §e{money}§a von deinem §eMiner abgeholt",
