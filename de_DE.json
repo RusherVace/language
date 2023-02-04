@@ -124,7 +124,18 @@
 			"percent": "Prozent",
 			"money_ranking": "Geld-Ranking",
 			"place": "Platz",
-			"money_miner.welcome": "{prefix} §aWelcome to MoneyMiner! You have been given §e10000$ §aas a starter money!\n{prefix} §aYou can get money for mining §eGold Blocks  §aand you can buy new pickaxes with money,to earn faster money!{prefix} §aYou can get passive cash with the §eMiner§a. You can also upgrade your §eMinerPickaxe §athere and Upgrade your §eMinerLevel §ato earn more money!{prefix} §aCollect money and booster and get the richest player in the server!{prefix} §aHave Fun!"
+			"money_miner.welcome": "{prefix} §aWelcome to MoneyMiner! You have been given §e10000$ §aas a starter money!\n{prefix} §aYou can get money for mining §eGold Blocks  §aand you can buy new pickaxes with money,to earn faster money!{prefix} §aYou can get passive cash with the §eMiner§a. You can also upgrade your §eMinerPickaxe §athere and Upgrade your §eMinerLevel §ato earn more money!{prefix} §aCollect money and booster and get the richest player in the server!{prefix} §aHave Fun!",
+			"money_miner.miner": "{prefix}At the moment you can pick up §b{money} §afrom the §eMiner NPC§a. Don't forget to pick it up!",
+			"moneyminer.booster.money": "{prefix}§e{player} §ahas won §b{percent}% §aof §6{duration} §aseconds §aof §eMoney §aBooster!",
+			"moneyminer.booster.found": "{prefix} §aYou found a §b{type} §aBooster for §b{duration} §aminutes!",
+			"moneyminer.booster.found.sec": "{prefix} §aYou found a §b{type} §aBooster for §b{duration} §aseconds!",
+			"moneyminer.booster.money.minutes": "{prefix}§e{player} §ahas won §b{percent}% §aof §6{duration} §aminutes §aof §eMoney §aBooster!",
+			"moneyminer.booster.found.title": "§l§bDu hast einen Booster gefunden",
+			"moneyminer.buyed_pickaxe": "{prefix}§aErfolgreich gekauft.",
+			"moneyminer.not_enough_money": "{prefix}§cDu hast nicht genug Geld.",
+			"moneyminer.claimed": "{prefix}§aYou claimed §e{money}§a from your §eMiner",
+			"moneyminer.content": "§eSend a miner to earn Idle cash!\n§eYour pickaxe: §6{pickaxe}§a\n§eYour Pickaxe Level: §6{level}",
+			"moneyminer.level-up": "§aYou leveled up to level §6{level}"
 		}
 	}
 }
