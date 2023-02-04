@@ -118,7 +118,12 @@
 			"rankshop.notenough": "%prefix%Du hast nicht genug Coins.",
 			"surveys.content": "%prefix%Derzeit gibt es keine Umfrage. Schau mal die nächsten Tage vorbei.",
 			"privateserver.tester": "%prefix%Derzeit kann dieses Feature nur von ausgewählten Testern benutzt werden.",
-			"stickshop.rank": "%prefix%Du benötigst einen höheren Rang."
+			"stickshop.rank": "%prefix%Du benötigst einen höheren Rang.",
+			"money": "Geld",
+			"pickaxe_level": "Spitzhacken Level",
+			"percent": "%",
+			"money_ranking": "Geld-Ranking",
+			"place": "Platz"
 		}
 	}
 }
