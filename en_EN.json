@@ -117,7 +117,12 @@
       "rankshop.notenough": "%prefix%You do not have enough coins.",
       "surveys.content": "%prefix%There is currently no survey. Check back in a few days.",
       "privateserver.tester": "%prefix%Currently this feature can only be used by selected testers.",
-      "stickshop.rank": "%prefix%You need a higher rank!"
+      "stickshop.rank": "%prefix%You need a higher rank!",
+      "money": "Money",
+			"pickaxe_level": "Pickaxe Level",
+			"percent": "percent",
+			"money_ranking": "Money-Ranking",
+			"place": "place",
     }
   }
 }
