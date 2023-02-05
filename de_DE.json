@@ -134,7 +134,7 @@
 			"moneyminer.booster.minutes.bought": "{prefix} §7---\n {prefix} §aYou bought a §b{type} §aBooster for §b{minutes} §aminutes!\n {prefix} §7---",
 			"moneyminer.booster.seconds": "{prefix} §7---\n{prefix} §aYou found a §b{type} §aBooster for §b{duration} §aseconds!\n{prefix} §7---",
 			"moneyminer.buyed_pickaxe": "{prefix}§aSuccessfully bought §e{pickaxe}§a.",
-			"moneyminer.need_money": "{prefix}§cYou need more money. §8(§e{money}§8)
+			"moneyminer.need_money": "{prefix}§cYou need more money. §8(§e{money}§8)"
 		}
 	}
 }
