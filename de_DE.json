@@ -135,8 +135,6 @@
 			"moneyminer.booster.seconds": "{prefix} §7§k---§r\n{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §asekunden gefunden!\n{prefix} §7§k---§r",
 			"moneyminer.buyed_pickaxe": "{prefix} §aDu hast erfolgreich §e{pickaxe} §agekauft.",
 			"moneyminer.need_money": "{prefix} §cDu brauchst mehr Geld. §8(§e{money}§8)",
-			"moneyminer.claimed_money": "{prefix} §7You claimed §e{money}$ §7from your §eMiner",
-			"moneyminer.form_content": "§eSend a miner to earn Idle cash!\n§eYour pickaxe: §6{pickaxe}§a\n§eYour Pickaxe Level: §6{level}",
 			"moneyminer.claimed_money": "{prefix} §7Du hast §e{money}$ §7von deinem §eMiner §7abgeholt",
 			"moneyminer.form_content": "§eSende einen Miner, um Passivgeld zu verdienen!\n§eDeine Spitzhacke: §6{pickaxe}§a\n§eDein Spitzhacke-Level: §6{level}"
 		}
