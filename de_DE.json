@@ -124,18 +124,8 @@
 			"percent": "Prozent",
 			"money_ranking": "Geld-Ranking",
 			"place": "Platz",
-			"money_miner.welcome": "{prefix} §aWillkommen bei MoneyMiner! Du wurdest mit §e10000$ §aals Startgeld gegeben!\n{prefix} §aDu kannst Geld für das Abbauen von §eGoldblöcken erhalten und du kannst neue Spitzhacken mit Geld kaufen, um schneller Geld zu verdienen!{prefix} §aDu kannst passive Einnahmen mit dem §eMiner§a erzielen. Du kannst auch deine §eMinerSpitzhacke §adort aufrüsten und dein §eMinerLevel §aum mehr Geld zu verdienen!{prefix} §aSammle Geld und Booster und werde der reichste Spieler auf dem Server!{prefix} §aViel Spaß!",
-			"money_miner.miner": "{prefix}Zurzeit kannst du §b{money} §avom §eMiner NPC§a aufnehmen. Vergiss nicht, es aufzunehmen!",
-			"moneyminer.booster.money": "{prefix}§e{player} §ahat §b{percent}% §avon §6{duration} §asekunden §avon §eMoney §aBooster gewonnen!",
-			"moneyminer.booster.found": "{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §aminuten gefunden!",
-			"moneyminer.booster.found.sec": "{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §asekunden gefunden!",
-			"moneyminer.booster.money.minutes": "{prefix}§e{player} §ahat §b{percent}% §avon §6{duration} §aminuten §avon §eMoney §aBooster gewonnen!",
-			"moneyminer.booster.found.title": "§eDu hast einen Booster gefunden",
-			"moneyminer.buyed_pickaxe": "{prefix}§aerfolgreich gekauft.",
-			"moneyminer.not_enough_money": "{prefix}§cDu hast nicht genug Geld.",
-			"moneyminer.claimed": "{prefix}§aDu hast §e{money}§a von deinem §eMiner abgeholt",
-			"moneyminer.content": "§eSchick einen Miner, um passive Einnahmen zu erzielen!\n§eDeine Spitzhacke: §6{pickaxe}§a\n§eDein Spitzhacke-Level: §6{level}",
-			"moneyminer.level-up": "§aDu hast das Level auf §6{level} §aaufgestiegen"
+			"money-miner.levelup": "{prefix}§7Du hast bist zu Level §e{level}§7 aufgestiegen!",
+			"moneyminer.welcome": "{prefix} §7---\n{prefix} §aWelcome to MoneyMiner! You have been given §e10000$ §aas a starter money!\n{prefix} §aYou can get money for mining §eGold Blocks  §aand you can buy new pickaxes with money,to earn faster money!\n{prefix} §aYou can get passive cash with the §eMiner§a. You can also upgrade your §eMinerPickaxe §athere and Upgrade your §eMinerLevel §ato earn more money!\n{prefix} §aCollect money and booster and get the richest player in the server!{prefix} §aHave Fun!\n{prefix} §7---"
 		}
 	}
 }
