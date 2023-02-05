@@ -122,7 +122,19 @@
       "pickaxe_level": "Pickaxe Level",
       "percent": "percent",
       "money_ranking": "Money-Ranking",
-      "place": "place"
+      "place": "place",
+      "moneyminer.welcome": "{prefix} §7§k---§r\n{prefix} §aWelcome to MoneyMiner! You have been given a starting capital of §e10000$ §a!\n{prefix} §aYou can earn money by mining §eGold blocks §aand buying new pickaxes with the money to earn money faster!\n{prefix} §aYou can also collect passive money with the §eMiner §a. You can also upgrade your §eMiner pickaxe §aand your §eMiner level §a to earn more money!\n{prefix} §aCollect money and boosters and become the richest player on the server! {prefix} §aHave fun!\n{prefix} §7§k---§r",
+      "moneyminer.miner": "{prefix} §7You can currently pick up §b{money} §7from the Miner NPC. Don't forget!",
+      "moneyminer.booster.money.second": "{prefix} §7§k---§r\n{prefix} §e{player} §awon a §b{percent}% §amoney booster lasting for §b{duration} §aseconds!\n{prefix} §7§k---§r",
+      "moneyminer.booster.money.minutes": "{prefix} §7§k---§r\n{prefix} §aYou found a §b{type} §abooster with a §b{percent}% §a{type} boost for §b{duration} §aminutes!\n{prefix} §7§k---§r",
+      "moneyminer.booster.minutes": "{prefix} §7§k---§r\n{prefix} §aYou found a §b{type} §abooster for §b{duration} §aminutes!\n{prefix} §7§k---§r",
+      "moneyminer.booster.money.minutes.bought": "{prefix} §7§k---§r\n{prefix} §aYou bought a §b{type} §abooster with a §b{percent}% §a{type} boost for §b{duration} §aminutes!\n{prefix} §7§k---§r",
+      "moneyminer.booster.minutes.bought": "{prefix} §7§k---§r\n {prefix} §aYou bought a §b{type} §abooster for §b{minutes} §aminutes!\n {prefix} §7§k---§r",
+      "moneyminer.booster.seconds": "{prefix} §7§k---§r\n{prefix} §aYou found a §b{type} §abooster for §b{duration} §aseconds!\n{prefix} §7§k---§r",
+      "moneyminer.buyed_pickaxe": "{prefix} §aYou have successfully bought the §e{pickaxe} §a.",
+      "moneyminer.need_money": "{prefix} §cYou need more money. §8(§e{money}§8)",
+      "moneyminer.claimed_money": "{prefix} §7You picked up §e{money}$ §7from your §eMiner §7",
+      "moneyminer.form_content": "§eSend a Miner to earn passive money!\n§eYour Pickaxe: §6{pickaxe}§a\n§eYour Pickaxe Level: §6{level}"
     }
   }
 }
