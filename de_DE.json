@@ -125,7 +125,16 @@
 			"money_ranking": "Geld-Ranking",
 			"place": "Platz",
 			"money-miner.levelup": "{prefix}§7Du hast bist zu Level §e{level}§7 aufgestiegen!",
-			"moneyminer.welcome": "{prefix} §7---\n{prefix} §aWelcome to MoneyMiner! You have been given §e10000$ §aas a starter money!\n{prefix} §aYou can get money for mining §eGold Blocks  §aand you can buy new pickaxes with money,to earn faster money!\n{prefix} §aYou can get passive cash with the §eMiner§a. You can also upgrade your §eMinerPickaxe §athere and Upgrade your §eMinerLevel §ato earn more money!\n{prefix} §aCollect money and booster and get the richest player in the server!{prefix} §aHave Fun!\n{prefix} §7---"
+			"moneyminer.welcome": "{prefix} §7---\n{prefix} §aWelcome to MoneyMiner! You have been given §e10000$ §aas a starter money!\n{prefix} §aYou can get money for mining §eGold Blocks  §aand you can buy new pickaxes with money,to earn faster money!\n{prefix} §aYou can get passive cash with the §eMiner§a. You can also upgrade your §eMinerPickaxe §athere and Upgrade your §eMinerLevel §ato earn more money!\n{prefix} §aCollect money and booster and get the richest player in the server!{prefix} §aHave Fun!\n{prefix} §7---",
+			"moneyminer.miner": "{prefix} §7At the moment you can pick up §b{money} §7from the Miner NPC. Don't forget to pick it up!",
+			"moneyminer.booster.money.second": "{prefix} §7---\n{prefix}§e{player} §ahas won §b{percent}% §aof §6{duration} §aseconds §aof §eMoney §aBooster!\n{prefix} §7---",
+			"moneyminer.booster.money.minutes": "{prefix} §7---\n{prefix} §aYou found a §b{type} §aBooster with §b{percent}% §a{type}boost for §b{duration} §aminutes!\n{prefix} §7---",
+			"moneyminer.booster.minutes": "{prefix} §7---\n{prefix} §aYou found a §b{type} §aBooster for §b{duration} §aminutes!\n{prefix} §7---",
+			"moneyminer.booster.money.minutes.bought": "{prefix} §7---\n{prefix} §aYou bought a §b{type} §aBooster with §b{percent}% §a{type}boost for §b{duration} §aminutes!\n{prefix} §7---",
+			"moneyminer.booster.minutes.bought": "{prefix} §7---\n {prefix} §aYou bought a §b{type} §aBooster for §b{minutes} §aminutes!\n {prefix} §7---",
+			"moneyminer.booster.seconds": "{prefix} §7---\n{prefix} §aYou found a §b{type} §aBooster for §b{duration} §aseconds!\n{prefix} §7---",
+			"moneyminer.buyed_pickaxe": "{prefix}§aSuccessfully bought §e{pickaxe}§a.",
+			"moneyminer.need_money": "{prefix}§cYou need more money. §8(§e{money}§8)
 		}
 	}
 }
