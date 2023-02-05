@@ -133,8 +133,8 @@
 			"moneyminer.booster.money.minutes.bought": "{prefix} §7---\n{prefix} §aDu hast einen §b{type} §aBooster mit einem §b{percent}% §a{type}-Boost für §b{duration} §aminuten gekauft!\n{prefix} §7---",
 			"moneyminer.booster.minutes.bought": "{prefix} §7---\n {prefix} §aDu hast einen §b{type} §aBooster für §b{minutes} §aminuten gekauft!\n {prefix} §7---",
 			"moneyminer.booster.seconds": "{prefix} §7---\n{prefix} §aDu hast einen §b{type} §aBooster für §b{duration} §asekunden gefunden!\n{prefix} §7---",
-			"moneyminer.buyed_pickaxe": "{prefix}§aSuccessfully bought §e{pickaxe}§a.",
-			"moneyminer.need_money": "{prefix}§cYou need more money. §8(§e{money}§8)"
+			"moneyminer.buyed_pickaxe": "{prefix} §aDu hast erfolgreich §e{pickaxe} §agekauft.",
+			"moneyminer.need_money": "{prefix} §cDu brauchst mehr Geld. §8(§e{money}§8)"
 		}
 	}
 }
