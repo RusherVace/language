@@ -119,10 +119,10 @@
       "privateserver.tester": "%prefix%Currently this feature can only be used by selected testers.",
       "stickshop.rank": "%prefix%You need a higher rank!",
       "money": "Money",
-			"pickaxe_level": "Pickaxe Level",
-			"percent": "percent",
-			"money_ranking": "Money-Ranking",
-			"place": "place",
+      "pickaxe_level": "Pickaxe Level",
+      "percent": "percent",
+      "money_ranking": "Money-Ranking",
+      "place": "place"
     }
   }
 }
