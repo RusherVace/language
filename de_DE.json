@@ -138,7 +138,7 @@
 			"moneyminer.claimed_money": "{prefix} §7Du hast §e{money}$ §7von deinem §eMiner §7abgeholt",
 			"moneyminer.form_content": "§eSende einen Miner, um Passivgeld zu verdienen!\n§eDeine Spitzhacke: §6{pickaxe}§a\n§eDein Spitzhacke-Level: §6{level}",
 			"mlgrush.blockshop.already.selected": "%prefix%Du hast diesen Block bereits ausgewählt.",
-			"mlgrush.caseopening.already.opening": "%prefix%Du öffnest bereits eine Kiste.",
+			"mlgrush.caseopening.already.opening": "%prefix%§7 Du öffnest bereits eine Kiste.",
 			"mlgrush.caseopening.mainform.content": "§7Hier kannst du Kisten öffnen!\n§7Du hast %keys% Schlüssel.\n\nDu kannst Kisten für Rubies kaufen.\n\nIn den Kisten sind folgende Gewinne:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eSchlüssel",
 			"mlgrush.caseopening.mainform.open.case": "§2Kiste öffnen\n§81 Schlüssel",
 			"mlgrush.caseopening.mainform.buy.case": "§2Kiste kaufen\n§8Klicke zum kaufen",

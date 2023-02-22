@@ -136,7 +136,7 @@
       "moneyminer.claimed_money": "{prefix} §7You picked up §e{money}$ §7from your §eMiner §7",
       "moneyminer.form_content": "§eSend a Miner to earn passive money!\n§eYour Pickaxe: §6{pickaxe}§a\n§eYour Pickaxe Level: §6{level}",
       "mlgrush.blockshop.already.selected": "%prefix%You have already selected this block.",
-      "mlgrush.caseopening.already.opening": "%prefix%You are already opening a case.",
+      "mlgrush.caseopening.already.opening": "%prefix%§7 You are already opening a case.",
       "mlgrush.caseopening.mainform.content": "§7Here you can open cases!\n§7You have %keys% keys.\n\nYou can buy cases for rubies.\n\nIn the cases, you can win the following rewards:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eKeys",
       "mlgrush.caseopening.mainform.open.case": "§2Open Case\n§81 Key",
       "mlgrush.caseopening.mainform.buy.case": "§2Buy Case\n§8Click to buy",
