@@ -162,7 +162,7 @@
 			"case-opening.not-enough-rubies": "%prefix%§cDu hast nicht genug Rubies um %amount% Kisten zu kaufen! §8(§e%price%§8)",
 			"stickshop.already": "%prefix%Du hast diesen Stick bereits ausgewählt.",
 			"stickshop.content": "§7Dein aktueller Stick: §e%stick% §7|§e %elo% Elo",
-
+			"mlg-rush.map-select.selected": "%prefix%Du hast die Map §e%map% §7ausgewählt.",
 			"close": "§cSchließen",
 			"open": "§aÖffnen",
 			"buy": "§aKaufen"
