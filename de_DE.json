@@ -165,7 +165,23 @@
 			"mlg-rush.map-select.selected": "%prefix%Du hast die Map §e%map% §7ausgewählt.",
 			"close": "§cSchließen",
 			"open": "§aÖffnen",
-			"buy": "§aKaufen"
+			"buy": "§aKaufen",
+			"red": "§cRot",
+			"blue": "§9Blau",
+			"green": "§aGrün",
+			"yellow": "§eGelb",
+			"orange": "§6Orange",
+			"pink": "§dPink",
+			"purple": "§5Lila",
+			"white": "§fWeiß",
+			"black": "§0Schwarz",
+			"gray": "§7Grau",
+			"darkgray": "§8Dunkelgrau",
+			"darkred": "§4Dunkelrot",
+			"darkblue": "§1Dunkelblau",
+			"darkgreen": "§2Dunkelgrün",
+			"simple.players": "Spieler",
+			"current.season": "§7Aktuelle Saison"
 		}
 	}
 }
