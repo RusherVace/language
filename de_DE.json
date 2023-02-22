@@ -158,7 +158,7 @@
 			"mlgrush.speed.disabled": "%prefix%Du hast den Speed-Modus §cdeaktiviert§7.",
 			"mlgrush.autoremover.enabled": "%prefix%Du hast den Auto-Remover §aaktiviert§7.",
 			"mlgrush.autoremover.disabled": "%prefix%Du hast den Auto-Remover §cdeaktiviert§7.",
-			"case-opening.buy-case": "%prefix%Du hast §e%amount%§7 Kisten für §e%rubies%§7 Rubies gekauft.",
+			"case-opening.buy-case": "%prefix%Du hast §e%amount%§7 Kisten für §e%price%§7 Rubies gekauft.",
 			"case-opening.not-enough-rubies": "%prefix%§cDu hast nicht genug Rubies um %amount% Kisten zu kaufen! §8(§e%price%§8)",
 			"stickshop.already": "%prefix%Du hast diesen Stick bereits ausgewählt.",
 			"stickshop.content": "§7Dein aktueller Stick: §e%stick% §7|§e %elo% Elo",
