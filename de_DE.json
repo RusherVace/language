@@ -136,7 +136,36 @@
 			"moneyminer.buyed_pickaxe": "{prefix} §aDu hast erfolgreich §e{pickaxe} §agekauft.",
 			"moneyminer.need_money": "{prefix} §cDu brauchst mehr Geld. §8(§e{money}§8)",
 			"moneyminer.claimed_money": "{prefix} §7Du hast §e{money}$ §7von deinem §eMiner §7abgeholt",
-			"moneyminer.form_content": "§eSende einen Miner, um Passivgeld zu verdienen!\n§eDeine Spitzhacke: §6{pickaxe}§a\n§eDein Spitzhacke-Level: §6{level}"
+			"moneyminer.form_content": "§eSende einen Miner, um Passivgeld zu verdienen!\n§eDeine Spitzhacke: §6{pickaxe}§a\n§eDein Spitzhacke-Level: §6{level}",
+			"mlgrush.blockshop.already.selected": "%prefix%Du hast diesen Block bereits ausgewählt.",
+			"mlgrush.caseopening.already.opening": "%prefix%Du öffnest bereits eine Kiste.",
+			"mlgrush.caseopening.mainform.content": "§7Hier kannst du Kisten öffnen!\n§7Du hast %keys% Schlüssel.\n\nDu kannst Kisten für Rubies kaufen.\n\nIn den Kisten sind folgende Gewinne:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eSchlüssel",
+			"mlgrush.caseopening.mainform.open.case": "§2Kiste öffnen\n§81 Schlüssel",
+			"mlgrush.caseopening.mainform.buy.case": "§2Kiste kaufen\n§8Klicke zum kaufen",
+			"mlgrush.caseopening.no.cases": "%prefix%Du hast keine Kisten.",
+			"mlgrush.caseopening.caseopeningform.content": "§7Möchtest du die Kiste öffnen?\n§7Du hast §e%keys% Schlüssel§7.",
+			"mlgrush.caseopening.caseopeningform.button1": "§2Ja",
+			"mlgrush.caseopening.caseopeningform.button2": "§cNein",
+			"case.opening.win": "§7Du hast §e{win}§7 gewonnen!",
+			"case.opening.win.all": "§l§7---\n\n§eDu hast §6{win1}§e, §6{win2}§e und §6{win3}§e gewonnen!\n\n§l§7---",
+			"case.opening.win.rubies": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{amount} Rubies§7 gewonnen! §8({rating}§8)",
+			"case.opening.win.coins": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{amount} Coins§7 gewonnen! §8({rating}§8)",
+			"case.opening.win.keys": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{amount} Keys§7 gewonnen! §8({rating}§8)",
+			"case.opening.win.stick": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{stick} Stick§7 gewonnen! §8({rating}§8)",
+			"case.opening.win.block": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{block} Block§7 gewonnen! §8({rating}§8)",
+			"case.opening.win.map": "§l§dCase §r§7Opening §r§8| §r§7Du hast §e{map} Map§7 gewonnen! §8({rating}§8)",
+			"mlgrush.speed.enabled": "%prefix%Du hast den Speed-Modus §aaktiviert§7.",
+			"mlgrush.speed.disabled": "%prefix%Du hast den Speed-Modus §cdeaktiviert§7.",
+			"mlgrush.autoremover.enabled": "%prefix%Du hast den Auto-Remover §aaktiviert§7.",
+			"mlgrush.autoremover.disabled": "%prefix%Du hast den Auto-Remover §cdeaktiviert§7.",
+			"case-opening.buy-case": "%prefix%Du hast §e%amount%§7 Kisten für §e%rubies%§7 Rubies gekauft.",
+			"case-opening.not-enough-rubies": "%prefix%§cDu hast nicht genug Rubies um %amount% Kisten zu kaufen! §8(§e%price%§8)",
+			"stickshop.already": "%prefix%Du hast diesen Stick bereits ausgewählt.",
+			"stickshop.content": "§7Dein aktueller Stick: §e%stick% §7|§e %elo% Elo",
+
+			"close": "§cSchließen",
+			"open": "§aÖffnen",
+			"buy": "§aKaufen"
 		}
 	}
 }
