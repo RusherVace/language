@@ -180,7 +180,6 @@
       "darkgreen": "§2Dark Green",
       "simple.players": "Players",
       "current.season": "§7Current Season",
-
       "simple.settings": "Settings",
       "mlgrush.button.game-settings": "Game Settings",
       "mlgrush.game-settings": "Game Settings",
@@ -193,7 +192,9 @@
       "mlgrush.shop.active": "§aActive",
       "mlgrush.shop.default": "§7Default",
       "mlgrush.map-select.not-selected": "§8Click to select",
-      "mlgrush.map-select.title": "§7Map Selection"
+      "mlgrush.map-select.title": "§7Map Selection",
+      "lastposition.teleported": " §a§l» §r§7You have been teleported to your last position.",
+      "lastposition.noposition": " §c§l» §r§7You have not yet saved a position."
     }
   }
 }

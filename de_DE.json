@@ -182,9 +182,6 @@
 			"darkgreen": "§2Dunkelgrün",
 			"simple.players": "Spieler",
 			"current.season": "§7Aktuelle Saison",
-
-
-
 			"simple.settings": "Einstellungen",
 			"mlgrush.button.game-settings": "Spiel-Einstellungen",
 			"mlgrush.game-settings": "Spiel-Einstellungen",
@@ -197,7 +194,9 @@
 			"mlgrush.shop.active": "§aAktiv",
 			"mlgrush.shop.default": "§7Standard",
 			"mlgrush.map-select.not-selected": "§8Klicke zum auswählen",
-			"mlgrush.map-select.title": "§7Map-Auswahl"
+			"mlgrush.map-select.title": "§7Map-Auswahl",
+			"lastposition.teleported": " §a§l» §r§7Du wurdest zu deiner letzten Position teleportiert.",
+			"lastposition.noposition": " §c§l» §r§7Du hast noch keine Position gespeichert."
 		}
 	}
 }
