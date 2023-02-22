@@ -179,7 +179,20 @@
       "darkblue": "§1Dark Blue",
       "darkgreen": "§2Dark Green",
       "simple.players": "Players",
-      "current.season": "§7Current Season"
+      "current.season": "§7Current Season",
+
+      "simple.settings": "Settings",
+      "mlgrush.button.game-settings": "Game Settings",
+      "mlgrush.button.sticks": "Sticks",
+      "mlgrush.button.blocks": "Blocks",
+      "mlgrush.button.speed": "Speed",
+      "mlgrush.enabled": "§aEnabled",
+      "mlgrush.disabled": "§cDisabled",
+      "stickshop.title": "§l§6Sticks",
+      "mlgrush.shop.active": "§aActive",
+      "mlgrush.shop.default": "§7Default",
+      "mlgrush.map-select.not-selected": "§8Click to select",
+      "mlgrush.map-select.title": "§7Map Selection"
     }
   }
 }
