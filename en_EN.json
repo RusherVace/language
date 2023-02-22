@@ -158,7 +158,7 @@
       "mlgrush.autoremover.disabled": "%prefix%You have §cdisabled§7 the auto-remover.",
       "case-opening.buy-case": "%prefix%You have bought §e%amount%§7 cases for §e%rubies%§7 rubies.",
       "case-opening.not-enough-rubies": "%prefix%§cYou don't have enough Rubies to buy %amount% cases! §8(§e%price%§8)",
-      "stickshop.already": "%prefix%You have already selected this stick.",
+      "stickshop.already": "%prefix%§cYou have already selected this stick!",
       "stickshop.content": "§7Your current stick: §e%stick% §7|§e %elo% Elo",
       "close": "§cClose",
       "open": "§aOpen",
