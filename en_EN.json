@@ -183,6 +183,7 @@
 
       "simple.settings": "Settings",
       "mlgrush.button.game-settings": "Game Settings",
+      "mlgrush.game-settings": "Game Settings",
       "mlgrush.button.sticks": "Sticks",
       "mlgrush.button.blocks": "Blocks",
       "mlgrush.button.speed": "Speed",
