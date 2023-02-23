@@ -194,7 +194,26 @@
       "mlgrush.map-select.not-selected": "§8Click to select",
       "mlgrush.map-select.title": "§7Map Selection",
       "lastposition.teleported": " §a§l» §r§7You have been teleported to your last position.",
-      "lastposition.noposition": " §c§l» §r§7You have not yet saved a position."
+      "lastposition.noposition": " §c§l» §r§7You have not yet saved a position.",
+      "case-opening.nocase": "%prefix%§cYou don't have any cases!",
+      "case-opening.title": "§l§dCases",
+      "case-opening.buy": "§2Buy\n§8Click to buy",
+      "case-opening.open": "§2Open\n§81 Key",
+      "case-opening.bought": "%prefix%§7You have purchased §e%amount%§7 cases.",
+      "case-opening.nomoney": "%prefix%§cYou don't have enough coins to buy cases!",
+      "case-opening.button.buy": "§2Buy\n§8%amount%x (%price%)",
+      "caseopening.lucky.1": "§l§eCONGRATULATIONS!",
+      "caseopening.lucky.2": "§aYou have won §e%coins% Coins§a!",
+      "caseopening.winrank": "%prefix%§7You have reached rank §e%rank%§7!\n%prefix%You have unlocked the rank for §e30 days§7!",
+      "caseopening.jackpot.1": "§l§4JACKPOT!",
+      "caseopening.jackpot.2": "§aYou have won §e%rank%§a!",
+      "caseopening.rankwinner": "§l§8---\n\n§l§6%player% §e-> §6%rank% §8(§e30d§8)\n\n§l§8---",
+      "caseopening.winrubies": "%prefix%§7You have won §e%rubies% Rubies§7!",
+      "caseopening.verylucky.1": "§l§eVERY LUCKY!",
+      "caseopening.verylucky.2": "§aYou have won §e%rubies% Rubies§a!",
+      "caseopening.rubieswinner": "§l§8---\n\n§l§a+§6%rubies% Rubies §e-> §6%player%\n\n§l§8---",
+      "caseopening.wincoins": "%prefix%§7You have won §e%coins% Coins§7!",
+      "caseopening.firstjoin": "%prefix%You have received a free case! Open it at the marketplace."
     }
   }
 }
