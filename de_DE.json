@@ -215,7 +215,25 @@
       "caseopening.verylucky.2": "§aDu hast §e%rubies% Rubies§a gewonnen!",
       "caseopening.rubieswinner": "§l§8---\n\n§l§a+§6%rubies% Rubies §e-> §6%player%\n\n§l§8---",
       "caseopening.wincoins": "%prefix%§7Du hast §e%coins% Coins§7 gewonnen!",
-      "caseopening.firstjoin": "%prefix%Du hast eine kostenlose Kiste erhalten! Öffne sie beim Marktplatz."
+      "caseopening.firstjoin": "%prefix%Du hast eine kostenlose Kiste erhalten! Öffne sie beim Marktplatz.",
+      "lobby.button.show-players": "§2Zeige Spieler\n§8Klicke zum verstecken",
+      "lobby.button.hide-players": "§4Verstecke Spieler\n§8Klicke zum anzeigen",
+      "lobby.button.show-friends": "§2Zeige Freunde\n§8Klicke zum verstecken",
+      "lobby.button.language": "§2Sprache\n§8Klicke zum ändern",
+      "lobby.button.double-jump-enabled": "§2Doppelsprung\n§8Klicke zum §cdeaktivieren",
+      "lobby.button.double-jump-disabled": "§2Doppelsprung\n§8Klicke zum §aaktivieren",
+      "lobby.button.fast-transfer-enabled": "§2Schneller Transfer\n§8Transfer direkt zu Server",
+      "lobby.button.fast-transfer-disabled": "§2Teleport\n§8Teleportiere dich zu den Schildern",
+      "lobby.message.hide-all": "§l§8 » §r§7Alle Spieler sind nun §cunsichtbar§7.",
+      "lobby.message.show-all": "§l§8 » §r§7Alle Spieler sind nun §asichtbar§7.",
+      "lobby.message.hide-friends": "§l§8 » §r§7Alle Freunde sind nun §cunsichtbar§7.",
+      "lobby.message.gui": "§l§8 » §r§7Du hast das §aLobby-Menu auf §eGUI §7umgestellt.",
+      "lobby.message.ui": "§l§8 » §r§7Du hast das §aLobby-Menu auf §eUI §7umgestellt.",
+      "lobby.message.disable-double-jump": "§l§8 » §r§7Du hast den §aDoppelsprung §7deaktiviert.",
+      "lobby.message.enable-double-jump": "§l§8 » §r§7Du hast den §aDoppelsprung §7aktiviert.",
+      "lobby.message.disable-fast-transfer": "§l§8 » §r§7Du hast den §aSchnellen Transfer §7deaktiviert.",
+      "lobby.message.enable-fast-transfer": "§l§8 » §r§7Du hast den §aSchnellen Transfer §7aktiviert.",
+      "lobby.message.need-vip": "§l§8 » §r§7Du musst §eVIP §7sein um diesen Befehl nutzen zu können."
     }
   }
 }

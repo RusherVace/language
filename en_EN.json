@@ -213,7 +213,25 @@
       "caseopening.verylucky.2": "§aYou have won §e%rubies% Rubies§a!",
       "caseopening.rubieswinner": "§l§8---\n\n§l§a+§6%rubies% Rubies §e-> §6%player%\n\n§l§8---",
       "caseopening.wincoins": "%prefix%§7You have won §e%coins% Coins§7!",
-      "caseopening.firstjoin": "%prefix%You have received a free case! Open it at the marketplace."
+      "caseopening.firstjoin": "%prefix%You have received a free case! Open it at the marketplace.",
+      "lobby.button.show-players": "§2Show Players\n§8Click to hide",
+      "lobby.button.hide-players": "§4Hide Players\n§8Click to show",
+      "lobby.button.show-friends": "§2Show Friends\n§8Click to hide",
+      "lobby.button.language": "§2Language\n§8Click to change",
+      "lobby.button.double-jump-enabled": "§2Double Jump\n§8Click to §cdisable",
+      "lobby.button.double-jump-disabled": "§2Double Jump\n§8Click to §aenable",
+      "lobby.button.fast-transfer-enabled": "§2Fast Transfer\n§8Directly transfer to server",
+      "lobby.button.fast-transfer-disabled": "§2Teleport\n§8Teleport to the signs",
+      "lobby.message.hide-all": "§l§8 » §r§7All players are now §cinvisible§7.",
+      "lobby.message.show-all": "§l§8 » §r§7All players are now §avisible§7.",
+      "lobby.message.hide-friends": "§l§8 » §r§7All friends are now §cinvisible§7.",
+      "lobby.message.gui": "§l§8 » §r§7You have switched the §aLobby Menu§7 to §eGUI§7.",
+      "lobby.message.ui": "§l§8 » §r§7You have switched the §aLobby Menu§7 to §eUI§7.",
+      "lobby.message.disable-double-jump": "§l§8 » §r§7You have §adisabled§7 double jump.",
+      "lobby.message.enable-double-jump": "§l§8 » §r§7You have §aenabled§7 double jump.",
+      "lobby.message.disable-fast-transfer": "§l§8 » §r§7You have §adisabled§7 fast transfer.",
+      "lobby.message.enable-fast-transfer": "§l§8 » §r§7You have §aenabled§7 fast transfer.",
+      "lobby.message.need-vip": "§l§8 » §r§7You need to be §eVIP §7to use this command."
     }
   }
 }
