@@ -234,7 +234,7 @@
       "lobby.message.disable-fast-transfer": "§l§8 » §r§7Du hast den §aSchnellen Transfer §7deaktiviert.",
       "lobby.message.enable-fast-transfer": "§l§8 » §r§7Du hast den §aSchnellen Transfer §7aktiviert.",
       "lobby.message.need-vip": "§l§8 » §r§7Du musst §eVIP §7sein um diesen Befehl nutzen zu können.",
-      "levelSystem.addXp": "%prefix%§7Du hast §e%amount% XP §7erhalten.",
+      "levelSystem.addXp": "§7Du hast §e%amount% XP §7erhalten.",
       "coinsSystem.removeCoins": "%prefix%§7Du hast §e%amount% Coins §7verloren.",
       "afkSystem.back": "§l§cZurück",
       "playerSystem.playingCoins": "%prefix%§7Du hast §e%amount% Coins §7für das Spielen erhalten.",
