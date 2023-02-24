@@ -231,7 +231,13 @@
       "lobby.message.enable-double-jump": "§l§8 » §r§7You have §aenabled§7 double jump.",
       "lobby.message.disable-fast-transfer": "§l§8 » §r§7You have §adisabled§7 fast transfer.",
       "lobby.message.enable-fast-transfer": "§l§8 » §r§7You have §aenabled§7 fast transfer.",
-      "lobby.message.need-vip": "§l§8 » §r§7You need to be §eVIP §7to use this command."
+      "lobby.message.need-vip": "§l§8 » §r§7You need to be §eVIP §7to use this command.",
+      "levelSystem.addXp": "%prefix%§7You have received §e%amount% XP§7.",
+      "coinsSystem.removeCoins": "%prefix%§7You have lost §e%amount% Coins§7.",
+      "afkSystem.back": "§l§cBack",
+      "playerSystem.playingCoins": "%prefix%§7You have received §e%amount% Coins§7 for playing.",
+      "coinsSystem.receivedCoins": "%prefix%§7You have received §e%amount% Coins§7.",
+      "coinsSystem.setCoins": "%prefix%§7You have set your Coins to §e%amount%§7."
     }
   }
 }
