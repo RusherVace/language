@@ -5,6 +5,7 @@
     "name": "Deutsch",
     "values": {
       "language.changed.successful": "{PREFIX} Du hast deine Sprache zu §eDeutsch§r geändert",
+      "language.changed.failed": "{PREFIX} Deine Sprache konnte nicht geändert werden",
       "JoinME.ui.createJoinME": "§aErstelle ein JoinME",
       "JoinME.ui.listJoinMEs": "§eListe der JoinMEs",
       "JoinME.is.not.Allowed": "%prefix%§cDu kannst hier kein JoinME erstellen",
