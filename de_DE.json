@@ -241,7 +241,10 @@
       "playerSystem.playingCoins": "%prefix%§7Du hast §e%amount% Coins §7für das Spielen erhalten.",
       "coinsSystem.receivedCoins": "%prefix%§7Du hast §e%amount% Coins §7erhalten.",
       "coinsSystem.setCoins": "%prefix%§7Du hast deine Coins auf §e%amount% §7gesetzt.",
-      "test": "Test"
+      "test": "Test",
+      "form.list.friends": "§2Deine Freunde\n§a%online%§7/§c%count_friends%",
+      "form.add.friend": "§2Freund hinzufügen",
+      "form.request.friend": "§2Freundschaftsanfragen\n%new_or_not%"
     }
   }
 }
