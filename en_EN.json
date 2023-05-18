@@ -238,7 +238,10 @@
       "afkSystem.back": "§l§cBack",
       "playerSystem.playingCoins": "%prefix%§7You have received §e%amount% Coins§7 for playing.",
       "coinsSystem.receivedCoins": "%prefix%§7You have received §e%amount% Coins§7.",
-      "coinsSystem.setCoins": "%prefix%§7You have set your Coins to §e%amount%§7."
+      "coinsSystem.setCoins": "%prefix%§7You have set your Coins to §e%amount%§7.",
+      "form.list.friends": "§2Your friends\n§a%online%§7/§c%count_friends%",
+      "form.add.friend": "§2Add a friend",
+      "form.request.friend": "§2Friend requests\n%new_or_not%"
     }
   }
 }
