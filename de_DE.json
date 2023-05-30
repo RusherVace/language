@@ -244,7 +244,19 @@
       "test": "Test",
       "form.list.friends": "§2Deine Freunde\n§a%online%§7/§c%count_friends%",
       "form.add.friend": "§2Freund hinzufügen",
-      "form.request.friend": "§2Freundschaftsanfragen\n%new_or_not%"
+      "form.request.friend": "§2Freundschaftsanfragen\n%new_or_not%",
+      "month.jan": "Januar",
+      "month.feb": "Februar",
+      "month.mar": "März",
+      "month.apr": "April",
+      "month.may": "Mai",
+      "month.jun": "Juni",
+      "month.jul": "Juli",
+      "month.aug": "August",
+      "month.sep": "September",
+      "month.oct": "Oktober",
+      "month.nov": "November",
+      "month.dec": "Dezember"
     }
   }
 }
