@@ -241,7 +241,19 @@
       "coinsSystem.setCoins": "%prefix%§7You have set your Coins to §e%amount%§7.",
       "form.list.friends": "§2Your friends\n§a%online%§7/§c%count_friends%",
       "form.add.friend": "§2Add a friend",
-      "form.request.friend": "§2Friend requests\n%new_or_not%"
+      "form.request.friend": "§2Friend requests\n%new_or_not%",
+      "month.jan": "January",
+      "month.feb": "February",
+      "month.mar": "March",
+      "month.apr": "April",
+      "month.may": "May",
+      "month.jun": "June",
+      "month.jul": "July",
+      "month.aug": "August",
+      "month.sep": "September",
+      "month.oct": "October",
+      "month.nov": "November",
+      "month.dec": "December
     }
   }
 }
