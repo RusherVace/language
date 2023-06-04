@@ -253,7 +253,17 @@
       "month.sep": "September",
       "month.oct": "October",
       "month.nov": "November",
-      "month.dec": "December"
+      "month.dec": "December",
+      "party.invite.label": "§eInvite a player to the party.",
+      "party.invite.self": "%prefix%§cYou can't invite yourself to the party.",
+      "party.invite.name.length.min": "%prefix%§cThe player name must be at least 3 characters long.",
+      "party.invite.name.length.max": "%prefix%§cThe player name must be at most 16 characters long.",
+      "party.invite.name.characters": "%prefix%§cThe player name must contain only letters, numbers and underscores.",
+      "party.invite.player.offline": "%prefix%§cThe player §e%player%§c is not online.",
+      "party.invite.party.not.exist": "%prefix%§cThe party §e%party%§c does not exist.",
+      "party.invite.not.owner": "%prefix%§cYou are not the owner of the party §e%party%§c.",
+      "party.invite.player.already.in.party": "%prefix%§cThe player §e%player%§c is already in the party §e%party%§c.",
+      "party.invite.party.full": "%prefix%§§cThe party §e%party%§c is already full."
     }
   }
 }
