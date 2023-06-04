@@ -260,16 +260,16 @@
       "party.create": "§aParty erstellen",
       "party.join": "§bParty beitreten",
       "party.list.team": "§cPartyliste\n§7Nur Teammitglieder",
-      "party.invite.label": "§eInvite a player to the party.",
-      "party.invite.self": "%prefix%§cYou can't invite yourself to the party.",
-      "party.invite.name.length.min": "%prefix%§cThe player name must be at least 3 characters long.",
-      "party.invite.name.length.max": "%prefix%§cThe player name must be at most 16 characters long.",
-      "party.invite.name.characters": "%prefix%§cThe player name must contain only letters, numbers and underscores.",
-      "party.invite.player.offline": "%prefix%§cThe player §e%player%§c is not online.",
-      "party.invite.party.not.exist": "%prefix%§cThe party §e%party%§c does not exist.",
-      "party.invite.not.owner": "%prefix%§cYou are not the owner of the party §e%party%§c.",
-      "party.invite.player.already.in.party": "%prefix%§cThe player §e%player%§c is already in the party §e%party%§c.",
-      "party.invite.party.full": "%prefix%§§cThe party §e%party%§c is already full."
+      "party.invite.label": "§eLade einen Spieler zur Party ein.",
+      "party.invite.self": "%prefix%§cDu kannst dich nicht selbst zur Party einladen.",
+      "party.invite.name.length.min": "%prefix%§cDer Spielername muss mindestens 3 Zeichen lang sein.",
+      "party.invite.name.length.max": "%prefix%§cDer Spielername darf höchstens 16 Zeichen lang sein.",
+      "party.invite.name.characters": "%prefix%§cDer Spielername darf nur Buchstaben, Zahlen und Unterstriche enthalten.",
+      "party.invite.player.offline": "%prefix%§cDer Spieler §e%player%§c ist nicht online.",
+      "party.invite.party.not.exist": "%prefix%§cDie Party §e%party%§c existiert nicht.",
+      "party.invite.not.owner": "%prefix%§cDu bist nicht der Besitzer der Party §e%party%§c.",
+      "party.invite.player.already.in.party": "%prefix%§cDer Spieler §e%player%§c ist bereits in der Party §e%party%§c.",
+      "party.invite.party.full": "%prefix%§cDie Party §e%party%§c ist bereits voll."
     }
   }
 }
