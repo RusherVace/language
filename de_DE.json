@@ -4,6 +4,7 @@
         "name": "Deutsch",
         "prefix": "§fRusher§cVace§r§8 | §r",
         "values": {
+            "navigator.content": "§7Wähle aus, was du spielen willst.",
             "afkSystem.back": "§l§cZurück",
             "arena.bed.break": "%prefix%Du hast das Bett des Gegners abgebaut.",
             "arena.bed.break.other": "%prefix%§cDein Bett wurde von §e%player%§c zerstört.",
