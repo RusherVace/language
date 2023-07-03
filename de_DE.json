@@ -253,7 +253,7 @@
             "party.invite.player.offline": "%prefix%§cDer Spieler §e%player%§c ist nicht online.",
             "party.invite.self": "%prefix%§cDu kannst dich nicht selbst zur Party einladen.",
             "party.join": "§l§eParty beitreten",
-            "party.list.team": "§l§cPartyliste\n§7Nur Teammitglieder",
+            "party.list.team": "§l§cPartyliste\n§r§7Nur Teammitglieder",
             "party.invite": "§b§lEinladen",
             "party.kick": "§l§cMitglied entfernen",
             "party.leave": "§l§4Verlassen",
