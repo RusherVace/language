@@ -251,7 +251,7 @@
             "party.invite.self": "%prefix%§cYou can't invite yourself to the party.",
             "party.create": "§2§lCreate a party",
             "party.join": "§e§lJoin party",
-            "party.list.team": "§l§cList parties\n§7Only teammember",
+            "party.list.team": "§l§cList parties\n§r§7Only teammember",
             "party.invite": "§b§lInvite",
             "party.kick": "§c§lKick member",
             "party.leave": "§4§lLeave",
