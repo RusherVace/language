@@ -4,6 +4,7 @@
         "name": "English",
         "prefix": "§fRusher§cVace§r§8 | §r",
         "values": {
+            "navigator.content": "Choose what you want to play.",
             "afkSystem.back": "§l§cBack",
             "arena.bed.break": "%prefix%You have broken the enemy's bed.",
             "arena.bed.break.other": "%prefix%§cYour bed has been destroyed by §e%player%§c.",
