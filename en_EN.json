@@ -172,6 +172,8 @@
             "lobby.message.ui": "§l§8 » §r§7You have switched the §aLobby Menu§7 to §eUI§7.",
             "lobby.message.disable-vanilla-ui": "§l§8 » §r§7You have §cdisabled§7 the vanilla-ui.",
             "lobby.message.enable-vanilla-ui": "§l§8 » §r§7You have §aenabled§7 the vanilla-ui.",
+            "lobby.message.need-vip": "§l§8 » §r§7You need §uRusher§7 Rank to do that.",
+            "lobby.message.custom-tag": "§l§8 » §r§7Your custom tag is now: §e%custom%§7.",
             "lobby.no.particles": "§4Stop particles",
             "lobby.particles": "§aParticles",
             "lobby.size": "§eSize",
