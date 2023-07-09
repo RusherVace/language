@@ -175,6 +175,7 @@
             "lobby.message.enable-vanilla-ui": "§l§8 » §r§7Du hast VanillaUI §aaktiviert§7.",
             "lobby.message.need-vip": "§l§8 » §r§7Du benötigst den §uRusher§7 Rang um das zu tun.",
             "lobby.message.custom-tag": "§l§8 » §r§7Du hast deinen Custom-Tag auf §e%custom%§7 gesetzt.",
+            "lobby.message.custom-tag-too-long": "§l§8 » §r§7Der Custom-Tag kann nicht länger als 16 Zeichen sein.",
             "lobby.no.particles": "§4Partikel deaktivieren",
             "lobby.particles": "§aPartikel",
             "lobby.size": "§eGröße",
