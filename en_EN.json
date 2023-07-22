@@ -194,7 +194,7 @@
             "mlgrush.caseopening.caseopeningform.button2": "§cNo",
             "mlgrush.caseopening.caseopeningform.content": "§7Do you want to open the case?\n§7You have §e%keys% keys§7.",
             "mlgrush.caseopening.mainform.buy.case": "§2Buy Case\n§8Click to buy",
-            "mlgrush.caseopening.mainform.content": "§7Here you can open cases!\n§7You have %keys% keys.\n\nYou can buy cases for rubies.\n\nIn the cases, you can win the following rewards:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eKeys",
+            "mlgrush.caseopening.mainform.content": "§7Here you can open cases!\n§7You have %keys% keys. You can get some at 'Open Case'.\n\nYou can buy cases for rubies.\n\nIn the cases, you can win the following rewards:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eKeys",
             "mlgrush.caseopening.mainform.open.case": "§2Open Case\n§81 Key",
             "mlgrush.caseopening.no.cases": "%prefix%You don't have any cases.",
             "mlgrush.disabled": "§cDisabled",
