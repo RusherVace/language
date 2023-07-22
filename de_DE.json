@@ -195,7 +195,7 @@
             "mlgrush.caseopening.caseopeningform.button2": "§cNein",
             "mlgrush.caseopening.caseopeningform.content": "§7Möchtest du die Kiste öffnen?\n§7Du hast §e%keys% Schlüssel§7.",
             "mlgrush.caseopening.mainform.buy.case": "§2Kiste kaufen\n§8Klicke zum kaufen",
-            "mlgrush.caseopening.mainform.content": "§7Hier kannst du Kisten öffnen!\n§7Du hast %keys% Schlüssel.\n\nDu kannst Kisten für Rubies kaufen.\n\nIn den Kisten sind folgende Gewinne:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eSchlüssel",
+            "mlgrush.caseopening.mainform.content": "§7Hier kannst du Kisten öffnen!\n§7Du hast %keys% Schlüssel. Du hast neue bei 'Kiste Öffnen' kaufen.\n\nDu kannst Kisten für Rubies kaufen.\n\nIn den Kisten sind folgende Gewinne:\n§7 - §eSticks\n§7 - §eBlocks\n§7 - §eMaps\n§7 - §eCoins\n§7 - §eRubies\n§7 - §eSchlüssel",
             "mlgrush.caseopening.mainform.open.case": "§2Kiste öffnen\n§81 Schlüssel",
             "mlgrush.caseopening.no.cases": "%prefix%Du hast keine Kisten.",
             "mlgrush.disabled": "§cDeaktiviert",
