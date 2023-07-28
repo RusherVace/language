@@ -303,7 +303,8 @@
       "yellow": "§eGelb",
       "pserver.ui.my_servers": "§aMeine Server",
       "pserver.ui.create_server": "§aServer erstellen",
-      "pserver.ui.close": "§cSchließen"
+      "pserver.ui.close": "§cSchließen",
+      "pserver.ui.desc": "§6Spiele eine entspannte Runde mit deinen Freunden oder spielt auf einem eigen-einstellbarem Server."
     }
   }
 }

@@ -300,7 +300,8 @@
       "yellow": "§eYellow",
       "pserver.ui.my_servers": "§aMy servers",
       "pserver.ui.create_server": "§6Create servers",
-      "pserver.ui.close": "§cClose"
+      "pserver.ui.close": "§cClose",
+      "pserver.ui.desc": "§6Play a chilled round with your friends or just play on a customizable server."
     }
   }
 }
