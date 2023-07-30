@@ -298,10 +298,17 @@
       "transfering.already": "§r§l§8 » §r§cYou are already transfering to another server!",
       "white": "§fWhite",
       "yellow": "§eYellow",
-      "pserver.ui.my_servers": "§aMy servers",
-      "pserver.ui.create_server": "§6Create servers",
+      "pserver.ui.active_servers": "§aActive servers",
+      "pserver.ui.create_server": "§6Create server",
       "pserver.ui.close": "§cClose",
-      "pserver.ui.desc": "§6Play a chilled round with your friends or just play on a customizable server."
+      "pserver.ui.desc": "§6Play a chilled round with your friends or just play on a customizable server.",
+      "pserver.title.start_server": "§aStarting server§7 ...",
+      "pserver.title.transfer_player": "§aSending you to the server§7 ...",
+      "pserver.title.done": "§a§lDONE§7!",
+      "pserver.subtitle.status.first": "§a•§7৹",
+      "pserver.subtitle.status.second": "§a••",
+      "pserver.subtitle.status.third": "§a✓",
+      "pserver.transfer": "§aJoining §6%owner%§a's §5private server§a."
     }
   }
 }

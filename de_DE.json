@@ -301,10 +301,17 @@
       "transfering.already": "§r§l§8 » §r§cDu wird bereits auf einen anderen Server gesendet!",
       "white": "§fWeiß",
       "yellow": "§eGelb",
-      "pserver.ui.my_servers": "§aMeine Server",
+      "pserver.ui.active_servers": "§aAktive servers",
       "pserver.ui.create_server": "§aServer erstellen",
       "pserver.ui.close": "§cSchließen",
-      "pserver.ui.desc": "§6Spiele eine entspannte Runde mit deinen Freunden oder spielt auf einem eigen-einstellbarem Server."
+      "pserver.ui.desc": "§6Spiele eine entspannte Runde mit deinen Freunden oder spielt auf einem eigen-einstellbarem Server.",
+      "pserver.title.start_server": "§aStarte Server §7...",
+      "pserver.title.transfer_player": "§aSchicke dich zum Server§7 ...",
+      "pserver.title.done": "§a§lFERTIG§7!",
+      "pserver.subtitle.status.first": "§a•§7৹",
+      "pserver.subtitle.status.second": "§a••§7",
+      "pserver.subtitle.status.third": "§a✓",
+      "pserver.transfer": "§aBetrete §6%owner%§a's §5Private Server§a."
     }
   }
 }
