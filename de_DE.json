@@ -301,7 +301,7 @@
       "transfering.already": "§r§l§8 » §r§cDu wird bereits auf einen anderen Server gesendet!",
       "white": "§fWeiß",
       "yellow": "§eGelb",
-      "pserver.ui.active_servers": "§aAktive servers",
+      "pserver.ui.active_servers": "§aAktive Server",
       "pserver.ui.create_server": "§aServer erstellen",
       "pserver.ui.close": "§cSchließen",
       "pserver.ui.desc": "§6Spiele eine entspannte Runde mit deinen Freunden oder spielt auf einem eigen-einstellbarem Server.",
